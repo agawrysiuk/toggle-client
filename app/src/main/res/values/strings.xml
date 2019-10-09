@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CompanyToggleClient</string>
+    <string name="login_message">Enter your email</string>
+    <string name="login_pin">Enter your PIN</string>
+    <string name="button_send">Log in</string>
+    <string name="button_checkin">Check in</string>
+    <string name="button_checkout">Check out</string>
+    <string name="top_login">Please log in</string>
+</resources>
